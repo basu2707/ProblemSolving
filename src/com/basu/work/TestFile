@@ -1,0 +1,9 @@
+
+
+
+/*			StringBuilder wordWrap = new StringBuilder(givenText);
+int index = 0;
+while (index + lengthOfWrap < wordWrap.length() && (index = wordWrap.lastIndexOf(" ", index + lengthOfWrap)) != -1) {
+	wordWrap.replace(index, index + 1, "\n");
+}
+System.out.println(wordWrap.toString());*/
