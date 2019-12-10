@@ -1,8 +1,0 @@
-# These owners will be the default owners for everything in the repo.
-*       @bigeyes2707
-
-# So if a pull request only touches java files, only these owners will be requested to review.
-*.java    @bigeyes2707 @github/java
-
-# You can also use email addresses if you prefer.
-docs/*  siva_kavuturu@comcast.com
